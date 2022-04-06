@@ -132,6 +132,9 @@ footer a:hover {
 	border-radius: 12px;
 	background-color: red;
 	font-family: 'Roboto', sans-serif;
+	position: absolute;
+	top: 0px;
+	right: 0px;
 }
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
